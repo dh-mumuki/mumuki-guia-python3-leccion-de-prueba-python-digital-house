@@ -1,0 +1,9 @@
+---
+name: Lección de Prueba Python DigitalHouse
+locale: es
+type: learning
+beta: false
+language: python3
+id_format: "%05d"
+order: []
+private: false
