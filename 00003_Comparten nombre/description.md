@@ -1,0 +1,1 @@
+> Definí la función `comparten_nombre` que recibe dos nombres y nos dice si son iguales.
