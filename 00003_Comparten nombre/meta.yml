@@ -6,6 +6,6 @@ editor: code
 type: problem
 extra_visible: false
 teacher_info: ''
-manual_evaluation: true
+manual_evaluation: false
 choices: []
 name: Comparten nombre
