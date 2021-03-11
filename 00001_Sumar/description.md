@@ -1,0 +1,1 @@
+> Definí la función `sumar` que toma por argumento dos números y duelve la suma de ellos. 
