@@ -1,1 +1,1 @@
-> Definí el procedimiento `nuevo_anio` que incremente en 1 el anio_actual.
+> Definí el procedimiento `nuevo_anio` que incremente en 1 el `anio_actual` y ponga en cero la variable `cansancio`.
