@@ -1,0 +1,1 @@
+> Inicializá la variable `anio_actual` con el valor 2020. 
